@@ -17,7 +17,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>1 Departamento de tecnologia</td>
+                <td></td>
                 <td></td>
                 <td></td>
             </tr>

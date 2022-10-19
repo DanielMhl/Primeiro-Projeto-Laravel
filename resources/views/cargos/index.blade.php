@@ -12,7 +12,7 @@
             <tr class="text-center">
                 <th>ID</th>
                 <th>Descrição</th>
-                <th>Ação</th>
+                <th class="align-items-end">Ação</th>
             </tr>
         </thead>
         <tbody>
