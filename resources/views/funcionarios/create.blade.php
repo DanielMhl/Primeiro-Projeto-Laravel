@@ -13,12 +13,12 @@
 
     <div class="col-4 mb-3">
         <label for="data_nasc" class="form-label">Data de Nascimento</label>
-        <input type="date" name="data_nasc" class="form-control form-control-lg bg-light" value="" required>
+        <input type="date" name="data_nasc" class="form-control form-select-lg bg-light" value="" required>
     </div>
 
     <div class="col-4 mb-3">
         <label for="sexo" class="form-label">Sexo</label>
-        <select name="sexo" class="form-select form-control form-control-lg bg-light" value="" required>
+        <select name="sexo" class="form-select  form-select-lg bg-light" value="" required>
             <option value=""></option>
             <option value="f">Feminino</option>
             <option value="m">Masculino</option>
@@ -44,12 +44,12 @@
 <div class="row">
     <div class="col-4 mb-3">
         <label for="id_departamento" class="form-label">Departamento</label>
-        <input type="text" name="id_departamento" class="form-control form-control-lg bg-light" value="" required>
+        <input type="text" name="id_departamento" class="form-select form-control-lg bg-light" value="" required>
     </div>
 
     <div class="col-4 mb-3">
         <label for="id_cargo" class="form-label">Cargo</label>
-        <input type="text" name="id_cargo" class="form-control form-control-lg bg-light" value="" required>
+        <input type="text" name="id_cargo" class="form-select form-control-lg bg-light" value="" required>
     </div>
 
     <div class="col-4 mb-3">
